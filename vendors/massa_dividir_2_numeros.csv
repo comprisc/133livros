@@ -1,0 +1,6 @@
+numero1;numero2;resultado_esperado
+15;5;3
+4;5;0.8
+7;0;divisao por zero
+-6;2;-3
+
